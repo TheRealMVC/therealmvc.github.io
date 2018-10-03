@@ -1,0 +1,8 @@
+#navStyle{
+    background-color: var(--brown) !important;
+    font-family: var(--font-two);
+}
+
+#listStyle{
+    margin-left: 50%
+}
